@@ -1,0 +1,2 @@
+hello goodbye
+here we are with the second line of textwritting to files in ruby is simple
