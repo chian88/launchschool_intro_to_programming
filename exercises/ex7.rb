@@ -1,0 +1,1 @@
+# hash has a key and a value, while array don't.

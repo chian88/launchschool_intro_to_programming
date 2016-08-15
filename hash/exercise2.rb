@@ -9,3 +9,4 @@ p batallion_soldiers
 
 p batallion_soldiers.merge!(support_soldiers)
 p batallion_soldiers
+
