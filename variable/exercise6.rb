@@ -1,0 +1,1 @@
+# there is an undefined variables or method called "shoes" . Or it is outside the scope of being called.

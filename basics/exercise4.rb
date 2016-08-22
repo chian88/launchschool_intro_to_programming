@@ -1,0 +1,6 @@
+array1 = [1975, 2004, 2013, 2001, 1981]
+puts array1[0]
+puts array1[1]
+puts array1[2]
+puts array1[3]
+puts array1[4]
